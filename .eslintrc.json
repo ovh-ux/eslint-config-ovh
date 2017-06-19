@@ -1,0 +1,3 @@
+{
+  "extends": "./configs/es6-node.js"
+}

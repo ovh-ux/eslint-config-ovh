@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-ovh",
+  "version": "0.0.0",
+  "description": "Official OVH rules for ESLint.",
+  "author": "OVH SAS",
+  "license": "BSD-3-Clause",
+  "repository": "ovh/eslint-config-ovh",
+  "keywords": [
+    "ovh",
+    "eslint",
+    "eslintconfig"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint configs rules"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.13.1"
+  },
+  "peerDependencies": {
+    "eslint": "^3.13.1"
+  }
+}
