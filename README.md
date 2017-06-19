@@ -2,7 +2,7 @@
 
 Official OVH rules for ESLint.
 
-**This configuration is under active discussions, so some of our projects  do not yet use this configuration**
+:construction: **This configuration is under active discussions, so some of our projects  do not yet use this configuration**
 
 
 ## Getting Started
