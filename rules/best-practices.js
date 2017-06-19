@@ -11,7 +11,10 @@ module.exports = {
         // enforce the use of variables within the scope they are defined
         "block-scoped-var": "error",
 
-        "class-methods-use-this": "off",
+        // enforce that class methods utilize "this"
+        "class-methods-use-this": ["error", {
+            exceptMethods: []
+        }],
 
         // enforce a maximum cyclomatic complexity allowed in a program
         complexity: "off",
@@ -226,6 +229,7 @@ module.exports = {
         // disallow async functions which have no await expression
         "require-await": "error",
 
+        // require var declarations be placed at the top of their containing scope
         "vars-on-top": "off",
 
         // require parentheses around immediate function invocations

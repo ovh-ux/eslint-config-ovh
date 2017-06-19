@@ -13,6 +13,7 @@ module.exports = {
         // enforce consistent brace style for blocks
         "brace-style": ["error", "1tbs", { allowSingleLine: true }],
 
+        // Don't enforce camelcase naming convention
         camelcase: "off",
 
         // enforce or disallow capitalization of the first letter of a comment
