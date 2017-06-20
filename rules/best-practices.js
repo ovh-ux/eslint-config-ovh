@@ -35,7 +35,7 @@ module.exports = {
         "dot-notation": ["error", { allowKeywords: true }],
 
         // require the use of === and !== but ignore for null
-        eqeqeq: "eqeqeq": ["error", "always", {"null": "ignore"}],
+        eqeqeq: ["error", "always", { "null": "ignore" }],
 
         // require for-in loops to include an if statement
         "guard-for-in": "error",
