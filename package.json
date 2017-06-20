@@ -4,7 +4,7 @@
   "description": "Official OVH rules for ESLint.",
   "author": "OVH SAS",
   "license": "BSD-3-Clause",
-  "repository": "ovh/eslint-config-ovh",
+  "repository": "ovh-ux/eslint-config-ovh",
   "keywords": [
     "ovh",
     "eslint",
