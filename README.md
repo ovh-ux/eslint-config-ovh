@@ -4,6 +4,8 @@
 
 Official OVH rules for ESLint.
 
+[![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]() [![Chat on gitter](https://img.shields.io/gitter/room/ovh/ux.svg)](https://gitter.im/ovh/ux)
+
 [![NPM](https://nodei.co/npm/eslint-config-ovh.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/eslint-config-ovh/)
 
 :construction: **This configuration is under active discussions, so some of our projects  do not yet use this configuration**
