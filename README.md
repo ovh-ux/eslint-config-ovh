@@ -1,6 +1,6 @@
-![OVH component](githubBanner.png)
-
 # eslint-config-ovh
+
+![OVH component](https://user-images.githubusercontent.com/3379410/27423240-3f944bc4-5731-11e7-87bb-3ff603aff8a7.png)
 
 Official OVH rules for ESLint.
 
