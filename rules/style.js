@@ -81,7 +81,8 @@ module.exports = {
             },
             CallExpression: {
                 arguments: "first"
-            }
+            },
+            SwitchCase: 1
         }],
 
         // enforce the consistent use of either double or single quotes in JSX attributes
