@@ -12,9 +12,7 @@ module.exports = {
         "block-scoped-var": "error",
 
         // enforce that class methods utilize "this"
-        "class-methods-use-this": ["error", {
-            exceptMethods: []
-        }],
+        "class-methods-use-this": ["off"],
 
         // enforce a maximum cyclomatic complexity allowed in a program
         complexity: "off",
