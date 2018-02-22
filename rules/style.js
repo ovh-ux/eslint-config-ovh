@@ -212,8 +212,8 @@ module.exports = {
         // disallow trailing whitespace at the end of lines
         "no-trailing-spaces": "error",
 
-        // disallow dangling underscores in identifiers
-        "no-underscore-dangle": ["error", { allowAfterThis: true, allowAfterSuper: true }],
+        // allow dangling underscores in identifiers
+        "no-underscore-dangle": ["off"],
 
         // disallow ternary operators when simpler alternatives exist
         "no-unneeded-ternary": ["error", { defaultAssignment: false }],
